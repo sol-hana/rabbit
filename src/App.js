@@ -1,5 +1,5 @@
 import './App.css';
-import { Logo } from './Logo';
+import { Logo } from './Header/Logo';
 import { Header } from './Header/Header';
 
 function App() {
