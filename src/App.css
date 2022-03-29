@@ -3,25 +3,3 @@
   background-color: #fafafa;
   height: 100vh;
 }
-
-.App-header {
-  background-color: #ffffff;
-  height: 60px;
-  width: 100vw; 
-  border-bottom: 1px solid #dbdbdb;
-  display: flex;
-  justify-content: center;
-}
-
-.LogoWrapper {
-  max-width: 975px;
-  width: 100%;
-  padding: 0 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-img {
-  height: 29px;
-}

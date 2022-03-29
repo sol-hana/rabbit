@@ -1,3 +1,4 @@
+import './Header.css';
 import { Logo } from './Logo';
 import { Icons } from './Icons';
 
