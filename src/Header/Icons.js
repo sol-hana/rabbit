@@ -12,7 +12,7 @@ function HomeIcon() {
 
 export function Icons() {
   return (
-    <div>
+    <div className="IconsBox">
       <HomeIcon />
       <SendIcon />
     </div>

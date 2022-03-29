@@ -5,6 +5,7 @@
   border-bottom: 1px solid #dbdbdb;
   display: flex;
   justify-content: center;
+  align-items: center; 
 }
 
 .LogoWrapper {
@@ -18,4 +19,11 @@
 
 img {
   height: 29px;
+}
+
+.IconsBox {
+  border: 1px solid black;
+  display: flex;
+  height: 24px;
+  width: 274px;
 }
