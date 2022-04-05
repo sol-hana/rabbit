@@ -8,7 +8,13 @@
   align-items: center; 
 }
 
-.LogoWrapper {
+input {
+  height: 40px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.headerChild {
   max-width: 975px;
   width: 100%;
   padding: 0 20px;
