@@ -15,6 +15,7 @@ export function Header() {
 //finish installing fnot awesome. try to do it yourself.
 //add rest of icons
 
+//hw:
+//css docu flexbox
+//flexbox froggy
 
-//We wrapped icons in parent component
-//refactor means change code around without changing its function. Just the visuals.

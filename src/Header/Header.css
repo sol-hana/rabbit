@@ -22,8 +22,8 @@ img {
 }
 
 .IconsBox {
-  border: 1px solid black;
   display: flex;
+  justify-content: space-between;
   height: 24px;
   width: 274px;
 }
